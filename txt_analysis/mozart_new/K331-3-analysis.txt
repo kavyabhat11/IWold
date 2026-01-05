@@ -1,0 +1,112 @@
+Composer: [TODO]
+Piece: [TODO]
+Analyst: [TODO]
+Proofreader: [TODO]
+Note: [TODO]
+
+Tempo: [TODO]
+Time Signature: 2/4
+
+Form: [TODO]
+[TODO: Add pedal markings if applicable]
+
+m1 a: V b1.25 i
+m6 e: i b2.5 i6/4
+m7 i b2.5 i6/4
+m8 i b1.5 i6/4 b2.5 V
+m9 i
+m10 I6/VI b1.5 C: I6
+m11 I b2 I6
+m12 V
+m13 I b2 I6
+m14 a: V/III
+m15 i b2 i6
+m16 V b2 i6/4
+m17 i b2 i6
+m18 V
+m19 i
+m22 Ger6/5
+m23 i6/4 b2 viio4/3
+m24 i6 b2 iio6
+m25 i6/4 b2 V
+m26 I
+m28 A: I
+m30 IV b1.5 viio6/4 b2 V6/5/V
+m31 V
+m32 I
+m34 IV b1.5 ii6 b2 V
+m35 I
+m37 f#: i b2 i6
+m38 V4/3
+m39 i
+m40 V6/5
+m41 i b2 i6
+m42 c#: I6/4 b1.5 i6/4 b2 i
+m43 V7
+m44 i
+m45 b1.75 A: iii
+m46 I b2 I6
+m47 V4/3 b2 V6/5
+m48 I b2 I6
+m49 V7 b1.5 V6/5
+m50 I b2 I6
+m51 V4/3 b2 V6/5 b2.5 V7
+m52 I b1.5 vi b2 ii6 b2.5 V
+m53 I
+m54 f#: i b2 i6
+m55 V4/3
+m56 i
+m57 V7 b2 V7/iv
+m58 iv b1.75 iv6/4
+m59 iio6 b2 iio
+m60 i6/4 b2 V7
+m61 i
+m63 A: I
+m65 IV b1.5 viio6/4 b2 V6/5/V
+m66 V
+m67 I
+m69 IV b1.5 ii6 b2 V b2.5 a: V
+m70 i
+m76 e: i b2.5 i6/4
+m77 i b2.5 i6/4
+m78 i b2 i6/4 b2.5 V
+m79 i
+m80 C: I6
+m81 I b2 I6
+m82 V
+m83 I b2 I6 b2.5 a: I6/III
+m84 V/III
+m85 i b2 i6
+m86 V b2 i6/4
+m87 i b2 i6
+m88 V
+m89 i
+m92 Ger6/5
+m93 i6/4 b2 viio4/3
+m94 i6 b2 iio6
+m95 i6/4 b2 V
+m96 I
+m97 b1.5 A: I
+m100 IV b2 V6/5/V
+m101 V
+m102 I
+m104 ii6/5 b1.5 ii6 b2 V
+m105 I
+m109 IV
+m110 I
+m111 V
+m112 I
+m115 IV
+m116 I
+m117 V7 b1.5 V b2 V7 b2.5 V
+m118 I
+m122 IV6/4
+m123 I
+m124 V
+m125 I
+m128 IV
+m129 I
+m130 V7
+m131 I
+
+[TODO Review and add as needed]
